@@ -42,6 +42,7 @@
       
 &emsp;&emsp;After this you can see the window like below <br>
 
+![image](https://github.com/user-attachments/assets/15177ef2-725b-4f4c-8ab5-e400084ed0a5)
 
 **Fig 2: Invoke the Cadence Environment**
 
@@ -73,11 +74,15 @@
 
 &emsp;&emsp;It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple step<br>
 
+![image](https://github.com/user-attachments/assets/cd9afdf0-290b-4320-961c-b966748268d9)
+
 **Fig 3: Setting Multi-step simulation**
 
 &emsp;&emsp;Select Multiple Step and then select “Create cds.lib File” as shown in below figure<br>
 
 &emsp;&emsp;Click the cds.lib file and save the file by clicking on Save option<br>
+
+![image](https://github.com/user-attachments/assets/9c02f570-c422-44c1-8375-9ac00f46a5a0)
 
 **Fig 4: cds.lib file Creation**
 
@@ -96,6 +101,8 @@
 &emsp;&emsp;Left side you can see the HDL files. Right side of the window has worklib and snapshots directories listed.<br>
 
 &emsp;&emsp;Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation<br>
+
+![image](https://github.com/user-attachments/assets/697f013c-1366-4544-aa69-f83e618f8e16)
 
 **Fig 6: Nclaunch Window**
 
@@ -120,6 +127,8 @@
 &emsp;&emsp;Left side select the file and in Tools : launch verilog compiler with current selection will get enable. Click it to compile the code <br>
 
 &emsp;&emsp;Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation <br>
+
+![image](https://github.com/user-attachments/assets/6e405621-032b-4900-b414-a46cce90f730)
 
 **Fig 7: Compiled database in worklib**
 
@@ -151,6 +160,8 @@
     
 &emsp;&emsp;After elaboration the file will come under snapshot. Select the test bench and simulate it. <br>
 
+![image](https://github.com/user-attachments/assets/10539fba-4379-4be5-b2ae-7601a717e2c5)
+
 **Fig 8: Elaboration Launch Option**
 
 **Step 3: Simulation: – Simulate with the given test vectors over a period of time to observe the output behaviour.** 
@@ -163,9 +174,15 @@
 
 &emsp;&emsp;Steps for simulation – Run the simulation command with simulator options<br>
 
+![image](https://github.com/user-attachments/assets/e7d30f31-3e49-41ed-b292-41070d2d948c)
+
 **Fig 9: Design Browser window for simulation**
 
+![image](https://github.com/user-attachments/assets/aa886610-4cc7-400f-8477-aa52237042aa)
+
 **Fig 10: Simulation Waveform Window**
+
+![image](https://github.com/user-attachments/assets/fce258f9-dc5d-4ec3-a671-e2edd3834652)
 
 **Fig 11: Simulation Waveform Window**
 

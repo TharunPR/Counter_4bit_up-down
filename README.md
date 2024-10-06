@@ -42,7 +42,7 @@
       
 &emsp;&emsp;After this you can see the window like below <br>
 
-![image](https://github.com/user-attachments/assets/15177ef2-725b-4f4c-8ab5-e400084ed0a5)
+![Picture8](https://github.com/user-attachments/assets/dcc1bb24-5e2d-4f1b-96d0-f410f4f2b0c1)
 
 **Fig 2: Invoke the Cadence Environment**
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple step<br>
 
-![image](https://github.com/user-attachments/assets/cd9afdf0-290b-4320-961c-b966748268d9)
+![Picture9](https://github.com/user-attachments/assets/29ee2e8a-792b-4c3f-a1ab-893d4a330563)
 
 **Fig 3: Setting Multi-step simulation**
 
@@ -82,7 +82,7 @@
 
 &emsp;&emsp;Click the cds.lib file and save the file by clicking on Save option<br>
 
-![image](https://github.com/user-attachments/assets/9c02f570-c422-44c1-8375-9ac00f46a5a0)
+![Screenshot 2024-10-05 093852](https://github.com/user-attachments/assets/91ad3198-0259-4aee-8cad-88454481ac20)
 
 **Fig 4: cds.lib file Creation**
 
@@ -91,6 +91,8 @@
 &emsp;&emsp;Select “Don’t include any libraries (verilog design)” from “New cds.lib file” and click on “OK” as in below figure<br>
 
 &emsp;&emsp;We are simulating verilog design without using any libraries<br>
+
+![Screenshot 2024-10-05 093943](https://github.com/user-attachments/assets/73f0d852-861a-49b0-9ee9-dcdc79ab8686)
 
 **Fig 5: Selection of Don’t include any libraries**
 
@@ -102,7 +104,7 @@
 
 &emsp;&emsp;Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation<br>
 
-![image](https://github.com/user-attachments/assets/697f013c-1366-4544-aa69-f83e618f8e16)
+![Screenshot 2024-10-05 094118](https://github.com/user-attachments/assets/d0abc092-b47c-4f5c-937d-6d4c41e96ee6)
 
 **Fig 6: Nclaunch Window**
 
@@ -128,7 +130,7 @@
 
 &emsp;&emsp;Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation <br>
 
-![image](https://github.com/user-attachments/assets/6e405621-032b-4900-b414-a46cce90f730)
+![Screenshot 2024-10-05 094320](https://github.com/user-attachments/assets/f32e8576-f202-48bf-9ca6-8c90e008bad6)
 
 **Fig 7: Compiled database in worklib**
 
@@ -160,7 +162,7 @@
     
 &emsp;&emsp;After elaboration the file will come under snapshot. Select the test bench and simulate it. <br>
 
-![image](https://github.com/user-attachments/assets/10539fba-4379-4be5-b2ae-7601a717e2c5)
+![Screenshot 2024-10-05 094356](https://github.com/user-attachments/assets/e9ccbae6-b490-400a-825c-a6f5f08ed60c)
 
 **Fig 8: Elaboration Launch Option**
 
@@ -174,15 +176,15 @@
 
 &emsp;&emsp;Steps for simulation – Run the simulation command with simulator options<br>
 
-![image](https://github.com/user-attachments/assets/e7d30f31-3e49-41ed-b292-41070d2d948c)
+![Picture4](https://github.com/user-attachments/assets/e10f0858-6a89-4652-a2ca-71dd3cf9b395)
 
 **Fig 9: Design Browser window for simulation**
 
-![image](https://github.com/user-attachments/assets/aa886610-4cc7-400f-8477-aa52237042aa)
+![Picture5](https://github.com/user-attachments/assets/7e1b075a-01ce-42c1-9c2d-2635539a9696)
 
 **Fig 10: Simulation Waveform Window**
 
-![image](https://github.com/user-attachments/assets/fce258f9-dc5d-4ec3-a671-e2edd3834652)
+![Picture7](https://github.com/user-attachments/assets/eb068722-97fa-4a8d-9318-e61795c165e2)
 
 **Fig 11: Simulation Waveform Window**
 

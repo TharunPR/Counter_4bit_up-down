@@ -24,7 +24,7 @@
  
 ![image](https://github.com/user-attachments/assets/efe1095e-989e-4005-b53b-e9dc50d4025c)
 
-**Fig 1: 4 Bit Up/Down Counter**
+**<p align="center">Fig 1: 4 Bit Up/Down Counter**
 
 **Creating a Work space :**
 
@@ -44,7 +44,7 @@
 
 ![Picture8](https://github.com/user-attachments/assets/dcc1bb24-5e2d-4f1b-96d0-f410f4f2b0c1)
 
-**Fig 2: Invoke the Cadence Environment**
+**<p align="center">Fig 2: Invoke the Cadence Environment**
 
 
 **Creating Source Code:**
@@ -116,7 +116,7 @@ endmodule
 
 ![Picture9](https://github.com/user-attachments/assets/29ee2e8a-792b-4c3f-a1ab-893d4a330563)
 
-**Fig 3: Setting Multi-step simulation**
+**<p align="center">Fig 3: Setting Multi-step simulation**
 
 &emsp;&emsp;Select Multiple Step and then select “Create cds.lib File” as shown in below figure<br>
 
@@ -124,7 +124,7 @@ endmodule
 
 ![Screenshot 2024-10-05 093852](https://github.com/user-attachments/assets/91ad3198-0259-4aee-8cad-88454481ac20)
 
-**Fig 4: cds.lib file Creation**
+**<p align="center">Fig 4: cds.lib file Creation**
 
 &emsp;&emsp;Save cds.lib file and select the correct option for cds.lib file format based on the  HDL Language and Libraries used.<br>
 
@@ -134,7 +134,7 @@ endmodule
 
 ![Screenshot 2024-10-05 093943](https://github.com/user-attachments/assets/73f0d852-861a-49b0-9ee9-dcdc79ab8686)
 
-**Fig 5: Selection of Don’t include any libraries**
+**<p align="center">Fig 5: Selection of Don’t include any libraries**
 
 &emsp;&emsp;A Click “OK” in the “nclaunch: Open Design Directory” window<br>
 
@@ -146,7 +146,7 @@ endmodule
 
 ![Screenshot 2024-10-05 094118](https://github.com/user-attachments/assets/d0abc092-b47c-4f5c-937d-6d4c41e96ee6)
 
-**Fig 6: Nclaunch Window**
+**<p align="center">Fig 6: Nclaunch Window**
 
 &emsp;&emsp;To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation.<br>
 
@@ -172,7 +172,7 @@ endmodule
 
 ![Screenshot 2024-10-05 094320](https://github.com/user-attachments/assets/f32e8576-f202-48bf-9ca6-8c90e008bad6)
 
-**Fig 7: Compiled database in worklib**
+**<p align="center">Fig 7: Compiled database in worklib**
 
 &emsp;&emsp;After compilation it will come under worklib you can see in right side window<br>
 
@@ -204,7 +204,7 @@ endmodule
 
 ![Screenshot 2024-10-05 094356](https://github.com/user-attachments/assets/e9ccbae6-b490-400a-825c-a6f5f08ed60c)
 
-**Fig 8: Elaboration Launch Option**
+**<p align="center">Fig 8: Elaboration Launch Option**
 
 **Step 3: Simulation: – Simulate with the given test vectors over a period of time to observe the output behaviour.** 
 
@@ -218,13 +218,16 @@ endmodule
 
 ![Picture4](https://github.com/user-attachments/assets/e10f0858-6a89-4652-a2ca-71dd3cf9b395)
 
-**Fig 9: Design Browser window for simulation**
+**<p align="center">Fig 9: Design Browser window for simulation**
 
 ![Picture5](https://github.com/user-attachments/assets/7e1b075a-01ce-42c1-9c2d-2635539a9696)
 
-**Fig 10: Simulation Waveform Window**
+**<p align="center">Fig 10: Simulation Waveform Window**
 
 ![Picture7](https://github.com/user-attachments/assets/eb068722-97fa-4a8d-9318-e61795c165e2)
 
-**Fig 11: Simulation Waveform Window**
+**<p align="center">Fig 11: Simulation Waveform Window**
 
+**Result:**
+
+&emsp;&emsp;The functionality of a 4bit_up-down asynchronous reset Counter was successfully verified using a test bench and simulated with the nclaunch tool.

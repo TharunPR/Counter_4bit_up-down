@@ -1,4 +1,4 @@
-# Exp-No:4 BIT Up-Down Counter - Write Verilog Code and Verify the Functionality using Test-bench ( Using Frontend tool - nclaunch in cadence).
+# Exp-No:2 BIT Up-Down Counter - Write Verilog Code and Verify the Functionality using Test-bench ( Using Frontend tool - nclaunch in cadence).
 
 **Aim:** <br>
 <br>
